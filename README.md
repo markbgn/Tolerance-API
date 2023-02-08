@@ -19,3 +19,4 @@
 - **Function:** `GetRange()`
 - **Requiered input:** size, character, grade
 - **Returns:** upper and lower limit
+
